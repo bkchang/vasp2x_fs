@@ -1,4 +1,4 @@
-%vasp2x_fs
+%vasp2x_fs.m
 
 % This script is used for transforming VASP output into .bxsf of the 
 % XCrysDen Fermi surface format.
@@ -18,6 +18,9 @@
 % name "${filename}.bxsf" will be generated under the same directory. 
 % One can then run "xcrysden --bxsf ${filename}.bxsf" to see the Fermi
 % surface plot in XCrysDen.
+%
+% For the .bxsf format, one can see
+% http://www.xcrysden.org/doc/XSF.html
 %
 % Author: Benjamin K. Chang,
 % Institute of Atomic and Molecular Sciences, Academia Sinica, Taiwan
