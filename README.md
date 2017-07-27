@@ -1,2 +1,2 @@
 # vasp2x_fs
-Generates a .bxsf (XCrysDen Fermi surface format) from VASP outputs.
+A MATLAB script that generates a .bxsf (XCrysDen Fermi surface format) from VASP outputs.
